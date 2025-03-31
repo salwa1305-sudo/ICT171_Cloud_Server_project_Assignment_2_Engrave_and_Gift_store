@@ -13,5 +13,6 @@
 [Watch the Video Here]()
 
 ### 📄 Documentation  
+[Click here to view the documentation](https://github.com/salwa1305-sudo/ICT171_Cloud_Server_project_Assignment_2_Engrave_and_Gift_store/blob/main/ICT171_ASSIGNMENT2_SALWA_FATIMA_34670718_final.docx)
 
 
